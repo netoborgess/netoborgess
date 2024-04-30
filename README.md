@@ -31,5 +31,3 @@ Futuro Estudante de Analise e Desenvolvimento de Sistemas pela UNIT-SE, Dev is m
 - Sou ainda um moleque nesse Ramo, completei meu ensino médio ano passado e pretendo me <br> matricular na faculdade UNIT-SE para cursar Analise e Desenvolvimento de Sistemas, Sou Aluno<br>na DIO e por lá já estudei Git e Github, Java pela Bootcamp da Santander, HTML 5 e pretendo<br> estudar novos campos e aprimorar mais nesse mundo!
 
 - Não sou uma pessoa que trabalha pelo dinheiro, trabalho e desenvolvo por AMOR, amo o que<br> oque eu faço e o que eu estudo dia após dia, e pretendo ficar aqui até o fim, e se tudo der certo<br>ser um futuro expert em varios rumos da programação.
-
-<img src="assets/img/yoo.jpeg" width=400px>
