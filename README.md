@@ -1,6 +1,6 @@
 #### Prazer Imenso Mundo, Me chame de Neto Borges!
 
-Futuro Estudante de Analise e Desenvolvimento de Sistemas pela UNIT-SE e amo minha namorada, Dev is meu mundo!
+Futuro Estudante de Analise e Desenvolvimento de Sistemas e amo minha namorada, Dev is meu mundo!
 
 ![homem programando](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952gzi6tvkhgtvbxchxgs2jgiuv59n527vdc4p3m10x&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
