@@ -6,7 +6,7 @@ Estudante em Tecnico em Informática para Internet pelo SENAI e amo minha namora
 
 #### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalicio-borges-neto-bbb1bb306/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalicio-borges-neto-ab055b20a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/netoborgess)
 
 #### 💻 Programações / Linguagens / Tecnologias e Ferramentas
@@ -31,6 +31,6 @@ Estudante em Tecnico em Informática para Internet pelo SENAI e amo minha namora
 
 - Nasci em Sergipe, Aracaju e cresci em familia relativamente pobre porém com sorriso no rosto!<br>Sempre fui muito interessado em mexer em computadores desde de novo e desde de 2020 <br> na pandemia eu comecei a me interessar na programação e me conhecer mais esse mundo tão<br> vasto e interessante!
 
-- Sou ainda um moleque nesse Ramo, completei meu ensino médio ano passado e pretendo me <br> matricular na faculdade UNIT-SE para cursar Analise e Desenvolvimento de Sistemas, Sou Aluno<br>na DIO e por lá já estudei Git e Github, Java pela Bootcamp da Santander, HTML 5 e pretendo<br> estudar novos campos e aprimorar mais nesse mundo!
+- Sou ainda um moleque nesse Ramo, completei meu ensino médio ano passado e faço curso técnico <br>para Informática para Internet, Fui Aluno<br>na DIO e por lá já estudei Git e Github, Java pela Bootcamp da Santander, HTML 5 e pretendo<br> estudar novos campos e aprimorar mais nesse mundo!
 
 - Não sou uma pessoa que trabalha pelo dinheiro, trabalho e desenvolvo por AMOR, amo o que<br> oque eu faço e o que eu estudo dia após dia, e pretendo ficar aqui até o fim, e se tudo der certo<br>ser um futuro expert em varios rumos da programação.
